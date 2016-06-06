@@ -1,3 +1,21 @@
+//**********************************************************
+// Assignment 4: Sudoku Solver
+//
+// Author: Jessica Morris
+//
+// Usage: When prompted, enter the path to a text file
+//   containing a properly-formatted Sudoku puzzle.
+//   The program expects that the first number be the
+//   number of entries to pre-fill, then the remaining
+//   information is a bunch of sequences of three ints
+//   representing a row/column coordinate pair and the
+//   value to be filled in at that location.
+//
+// Honour Code: I pledge that this program represents my own
+//   original code. It is my hope that this project may be
+//   used as an educational tool, and not plagiarized.
+//*********************************************************
+
 package com.jessicamorris.sysc2100.sudokusolver;
 
 import java.io.*;
